@@ -484,19 +484,16 @@
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="FOREGROUND" value="73C936" />
         <option name="BACKGROUND" value="233323" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="FOREGROUND" value="F43841" />
         <option name="BACKGROUND" value="382325" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="FOREGROUND" value="FFDD33" />
         <option name="BACKGROUND" value="383425" />
       </value>
     </option>
